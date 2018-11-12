@@ -6,5 +6,6 @@ public class Cat {
 		System.out.println("Kitty");
 		System.out.println("Kitty");
 		System.out.println("Kitty");
+		System.out.println("Kitty");
 	}
 }
